@@ -383,7 +383,7 @@
                     </connections>
                 </tapGestureRecognizer>
             </objects>
-            <point key="canvasLocation" x="1648.8" y="111.99400299850076"/>
+            <point key="canvasLocation" x="1686" y="7"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="4Om-sf-sAb">
@@ -549,7 +549,7 @@
                                         <size key="customSize" width="80" height="80"/>
                                     </collectionViewCell>
                                     <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="Wjb-Yl-6vK">
-                                        <rect key="frame" x="98" y="0.0" width="80" height="80"/>
+                                        <rect key="frame" x="98.5" y="0.0" width="80" height="80"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
                                             <rect key="frame" x="0.0" y="0.0" width="80" height="80"/>
@@ -570,7 +570,7 @@
                                         <size key="customSize" width="80" height="80"/>
                                     </collectionViewCell>
                                     <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="SEl-7c-iBp">
-                                        <rect key="frame" x="197" y="0.0" width="80" height="80"/>
+                                        <rect key="frame" x="196.5" y="0.0" width="80" height="80"/>
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                         <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
                                             <rect key="frame" x="0.0" y="0.0" width="80" height="80"/>
@@ -726,10 +726,10 @@
         <image name="plusBox" width="40" height="40"/>
     </resources>
     <inferredMetricsTieBreakers>
+        <segue reference="i5b-Za-6je"/>
         <segue reference="ZKM-YG-33h"/>
-        <segue reference="be3-f5-OEQ"/>
+        <segue reference="ECT-kg-qad"/>
+        <segue reference="rzz-Xf-hvu"/>
         <segue reference="NeW-fe-FsF"/>
-        <segue reference="x5m-Ne-aWL"/>
-        <segue reference="nDo-Nt-lzT"/>
     </inferredMetricsTieBreakers>
 </document>
